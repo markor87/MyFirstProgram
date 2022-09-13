@@ -1,5 +1,9 @@
 public class expressions {
     public static void main(String[] args) {
-        System.out.println("test");
+        int friends = 10;
+
+        friends--;
+
+        System.out.println(friends);
     }
 }
