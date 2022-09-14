@@ -23,8 +23,7 @@ public class math_class {
        y = Double.parseDouble(JOptionPane.showInputDialog("Unesi duzinu druge stranice"));
        z = Math.sqrt((x*x) + (y*y));
 
-       JOptionPane.showMessageDialog(null, "Duzina hipotenuze je: " + z + "cm");
 
-
+        JOptionPane.showMessageDialog(null, "Duzina hipotenuze je: " + z + "cm");
     }
 }

@@ -13,6 +13,5 @@ public class gui_intro {
         double visina = Double.parseDouble(JOptionPane.showInputDialog("Koliko si visok? "));
 
         JOptionPane.showMessageDialog(null, ime + " " + "ima " + godine + "godina. I visok je " + visina + "m");
-
     }
 }
