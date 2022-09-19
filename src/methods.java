@@ -1,10 +1,14 @@
 public class methods {
     public static void main(String[] args) {
-        hello();
+        String ime = "Marko";
+        int godine = 34;
+
+
+        hello(ime, godine);
     }
 
-    static void hello() {
-        System.out.println("Hello");
+    static void hello(String ime, int godine) {
+        System.out.println("Hello " + ime + " " + godine);
     }
 
 }
