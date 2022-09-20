@@ -13,7 +13,7 @@ public class printf {
 //        System.out.printf("%d\n",myInt);
 //        System.out.printf("%f\n",myDouble);
 
-        System.out.printf("Hello %10s",myString);
+        System.out.printf("Hello %10s", myString);
 
 
     }
