@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 public class methods {
     public static void main(String[] args) {
         String ime = "Marko";

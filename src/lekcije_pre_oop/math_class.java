@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 public class math_class {

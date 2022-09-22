@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 public class expressions {
     public static void main(String[] args) {
         int friends = 10;

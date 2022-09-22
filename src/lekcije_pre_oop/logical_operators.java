@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 import java.util.Scanner;
 public class logical_operators {
     public static void main(String[] args) {

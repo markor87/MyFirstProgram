@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 import java.util.Scanner;
 public class while_loop {
     public static void main(String[] args) {

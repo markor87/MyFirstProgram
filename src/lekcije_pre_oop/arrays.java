@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 public class arrays {
     public static void main(String[] args) {
 

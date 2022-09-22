@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 import java.util.ArrayList;
 
 public class for_each {

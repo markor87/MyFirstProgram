@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 public class string_methods {
     public static void main(String[] args) {
 

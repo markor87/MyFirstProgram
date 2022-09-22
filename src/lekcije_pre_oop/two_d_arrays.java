@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 public class two_d_arrays {
     public static void main(String[] args) {
 

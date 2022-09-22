@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 import java.util.ArrayList;
 
 public class two_d_array_list {

@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 import java.util.Scanner;
 
 public class nested_loops {

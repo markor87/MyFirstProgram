@@ -1,3 +1,5 @@
+package lekcije_pre_oop;
+
 import javax.swing.JOptionPane;
 
 public class if_statements {
