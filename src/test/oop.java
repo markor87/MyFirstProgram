@@ -1,3 +1,5 @@
+package test;
+
 public class oop {
     public static void main(String[] args) {
 
@@ -11,8 +13,8 @@ public class oop {
         System.out.println(mojAutomobil2.marka);
         System.out.println(mojAutomobil2.model);
 
-//        mojAutomobil.voznja();
-//        mojAutomobil.kocenje();
+//        mojAutomobil1.voznja();
+//        mojAutomobil2.kocenje();
 
     }
 }

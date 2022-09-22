@@ -1,3 +1,5 @@
+package test;
+
 public class automobil {
     String marka = "Kia";
     String model = "Ceed";
