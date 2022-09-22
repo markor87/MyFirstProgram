@@ -1,4 +1,4 @@
-package test;
+package oop;
 
 public class automobil {
     String marka = "Kia";
