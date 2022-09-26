@@ -13,7 +13,7 @@ public class Main {
         Hrana hrana3 = new Hrana("Belo");
         Hrana sok1 = new Hrana(5);
 
-        Hrana[] frizider = {hrana1, hrana2, hrana3,sok1};
+        Hrana[] frizider = {hrana1, hrana2, hrana3, sok1};
 
         frizider[0] = hrana1;
         frizider[1] = hrana2;

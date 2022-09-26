@@ -7,7 +7,8 @@ public class Hrana {
     Hrana(String ime) {
         this.ime = ime;
     }
-    Hrana(int broj){
+
+    Hrana(int broj) {
         this.broj = broj;
     }
 }
