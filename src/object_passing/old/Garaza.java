@@ -1,9 +1,9 @@
-package object_passing;
+package object_passing.old;
 
-import org.jetbrains.annotations.NotNull;
+//import org.jetbrains.annotations.NotNull;
 
 public class Garaza {
-    void park(@NotNull Automobil automobil) {
+    void park(Automobil automobil) {
         System.out.println("Auto " + automobil.ime + " je parkiran u garazi.");
     }
 

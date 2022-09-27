@@ -1,4 +1,4 @@
-package object_passing;
+package object_passing.old;
 
 public class Automobil {
     String ime;

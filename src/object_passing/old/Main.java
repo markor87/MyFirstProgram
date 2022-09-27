@@ -1,4 +1,4 @@
-package object_passing;
+package object_passing.old;
 
 public class Main {
     public static void main(String[] args) {
