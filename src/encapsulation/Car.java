@@ -6,9 +6,9 @@ public class Car {
     private int god;
 
     Car(String make,String model,int god){
-        this.make = make;
-        this.model = model;
-        this.god = god;
+        this.setMake(make);
+        this.setModel(model);
+        this.setGod(god);
 
     }
     public String getMake(){
@@ -19,5 +19,15 @@ public class Car {
     }
     public int getGod(){
         return god;
+    }
+
+    public void setMake(String make){
+        this.make = make;
+    }
+    public void setModel(String model){
+        this.model = model;
+    }
+    public void setGod(int god){
+        this.god = god;
     }
 }
