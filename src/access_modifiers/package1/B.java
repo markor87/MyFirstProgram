@@ -1,5 +1,5 @@
 package access_modifiers.package1;
-import package2.*;
+//import package2.*;
 
 public class B {
     private String privateMessage = "This is private";
